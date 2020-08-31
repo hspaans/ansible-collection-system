@@ -1,0 +1,12 @@
+[submodule "roles/uam"]
+	path = roles/uam
+	url = https://github.com/hspaans/ansible-role-uam.git
+[submodule "roles/package"]
+	path = roles/package
+	url = https://github.com/hspaans/ansible-role-package.git
+[submodule "roles/firewalld"]
+	path = roles/firewalld
+	url = https://github.com/hspaans/ansible-role-firewalld.git
+[submodule "roles/fd"]
+	path = roles/fd
+	url = https://github.com/hspaans/ansible-role-fd.git
